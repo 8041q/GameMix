@@ -1,16 +1,18 @@
 # GameMix
-A game package with classic games self-coded, like the rooster, hangman and four in a row games.
+A game package with classic games self-coded. Includes 'the rooster', 'hangman' and 'four-in-a-row'.
 
 Info:
-The games were coded in my original languague and then translated to english for better understading. Because of that, some errors can occur, although i highly douth that as I thoroughly checked the code
+The games dialogue were coded in my original languague (pt-pt) and then translated to english for better understading. Because of that, some misspelling can occur.
 
-Also, I coded these games using my own logic of understading on how to implement what I'm thinking to code. It might look sluggish or weird, but to me it's actually quite clear. But I understand that I still need to improve how I code. For now, this is it.
+Also, I coded these games using my own logic of understading on how to implement what I'm thinking to code. It might look sluggish or weird, but to me it's actually quite clear. But I understand that I still need to improve how I code. For now, this is my current programming logic and structure.
 
-There are two types of files shared. There is a raw python code and also an executable that i did with pyinstaller(GameMix executable), so you don't need to have a Python interpreter installed.
+Also, I coded these games using my own way of thinking about how to implement them into code. Some parts might look weird, but to me it actually makes sense. I know it’s not perfect and that I still have a lot to improve, but this is basically my current programming logic and structure.
 
-- To play the game you can just open the folder GameMix executable and run the first file named main.exe(NOT main.spec)
+There are two types of files shared. There is a raw python code and also an executable that i did with pyinstaller(GameMix executable), so you don't need to have a Python interpreter installed. But the executable will be flagged by windows defender.
 
-- To see the code, you can just open the folder on your IDLE interpreter.
+- To see the code and play, you can just open the folder on your IDLE interpreter and run with python installed.
+- To play the game right away, you can just open the folder GameMix executable and run the first file named main.exe (NOT main.spec).
+
 
 > Rooster Game
 ```
@@ -81,7 +83,6 @@ Available changes you can do:
 
 > Minesweeper Game
 ```
-
-Currently in development
+Dropped development
 
 ```
